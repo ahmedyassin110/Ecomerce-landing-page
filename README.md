@@ -72,7 +72,7 @@ npm run build
 npm run preview
 
 Linting
-# Run ESLint
+# Run ESLint 
 npm run lint
 
 Project Structure
